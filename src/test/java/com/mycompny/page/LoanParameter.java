@@ -17,6 +17,7 @@ public class LoanParameter extends TestBase {
 
 	@FindBy(xpath = "//input[@type='submit']")
 	WebElement Calculator;
+	
 	// Methods
 
 	public LoanParameter(WebDriver driver) {
