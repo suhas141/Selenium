@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
-  <test name="Surefire test">
+<suite name="Failed suite [example suite 1]" guice-stage="DEVELOPMENT" verbose="0">
+  <test name="Regression suite 1">
     <classes>
-      <class name="com.mycomapny.rough.Yahoo1Test"/>
-      <class name="com.mycomapny.test.TestBase"/>
       <class name="com.mycomapny.testModule.MlCalLoanTest"/>
+      <class name="com.mycomapny.test.TestBase"/>
     </classes>
-  </test> <!-- Surefire test -->
-</suite> <!-- Failed suite [Surefire suite] -->
+  </test> <!-- Regression suite 1 -->
+</suite> <!-- Failed suite [example suite 1] -->

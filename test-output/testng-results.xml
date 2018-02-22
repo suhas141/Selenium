@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13460" started-at="2018-02-18T09:46:22Z" finished-at="2018-02-18T09:46:36Z">
+  <suite name="example suite 1" duration-ms="12386" started-at="2018-02-20T07:29:16Z" finished-at="2018-02-20T07:29:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13460" started-at="2018-02-18T09:46:22Z" finished-at="2018-02-18T09:46:36Z">
+    <test name="Regression suite 1" duration-ms="12386" started-at="2018-02-20T07:29:16Z" finished-at="2018-02-20T07:29:28Z">
       <class name="com.mycomapny.testModule.MlCalLoanTest">
-        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.mycomapny.testModule.MlCalLoanTest@d8355a8]" name="beforemethod" is-config="true" duration-ms="10727" started-at="2018-02-18T01:46:22Z" finished-at="2018-02-18T01:46:33Z">
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:com.mycomapny.testModule.MlCalLoanTest@6a41eaa2]" name="beforemethod" is-config="true" duration-ms="10983" started-at="2018-02-19T23:29:16Z" finished-at="2018-02-19T23:29:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforemethod -->
-        <test-method status="PASS" signature="testMortgage()[pri:0, instance:com.mycomapny.testModule.MlCalLoanTest@d8355a8]" name="testMortgage" duration-ms="2696" started-at="2018-02-18T01:46:33Z" finished-at="2018-02-18T01:46:36Z">
+        <test-method status="PASS" signature="testMortgage()[pri:0, instance:com.mycomapny.testModule.MlCalLoanTest@6a41eaa2]" name="testMortgage" duration-ms="1373" started-at="2018-02-19T23:29:27Z" finished-at="2018-02-19T23:29:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMortgage -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mycomapny.testModule.MlCalLoanTest@d8355a8]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-18T01:46:36Z" finished-at="2018-02-18T01:46:36Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.mycomapny.testModule.MlCalLoanTest@6a41eaa2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-19T23:29:28Z" finished-at="2018-02-19T23:29:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- com.mycomapny.testModule.MlCalLoanTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
 </testng-results>
